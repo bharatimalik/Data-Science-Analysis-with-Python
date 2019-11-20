@@ -6,6 +6,6 @@
 
 ## Approach
 * The sentiment analysis was performed on a "word" level
-* You can go [here]() to access the code
+* You can go [here](https://github.com/bharatimalik/Data-Science-Analysis-with-Python/blob/master/Sentiment%20Analysis/Sentiment%20Analysis%20on%20chosen%20trending%20topic%20on%20twitter.ipynb) to access the code
 
 ## References
